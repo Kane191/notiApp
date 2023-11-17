@@ -1,0 +1,79 @@
+[
+  {
+    "image": "avatar-mark-webber.webp",
+    "name": "Mark Webber",
+    "action": "reacted to your recent post",
+    "post": "My first touranment today!",
+    "message": null,
+    "group": null,
+    "timeLapse": "1m ago",
+    "sentImage": null,
+    "status": "unread"
+  },
+  {
+    "image": "avatar-angela-gray.webp",
+    "name": "Angela Gray",
+    "action": "followed you",
+    "post": null,
+    "message": null,
+    "group": null,
+    "timeLapse": "5m ago",
+    "sentImage": null,
+    "status": "unread"
+  },
+  {
+    "image": "avatar-jacob-thompson.webp",
+    "name": "Jacob Thompson",
+    "action": "has joined your group",
+    "post": null,
+    "message": null,
+    "group": "Chess Club",
+    "timeLapse": "1day ago",
+    "sentImage": null,
+    "status": "unread"
+  },
+  {
+    "image": "avatar-rizky-hasanuddin.webp",
+    "name": "Rizky Hasanuddin",
+    "action": "sent you a private message",
+    "post": null,
+    "message": "Hello, thanks for setting up the Chess Club. I've been a member for a few weeks now and I'm already having lots of fun and improving my game.",
+    "group": null,
+    "timeLapse": "5days ago",
+    "sentImage": null,
+    "status": "read"
+  },
+  {
+    "image": "avatar-kimberly-smith.webp",
+    "name": "Kimberly Smith",
+    "action": "commented on your picture",
+    "post": null,
+    "message": null,
+    "group": null,
+    "timeLapse": "1week ago",
+    "sentImage": "image-chess.webp",
+    "status": "read"
+  },
+  {
+    "image": "avatar-nathan-peterson.webp",
+    "name": "Nathan Peterson",
+    "action": "reacted to your recent post",
+    "post": "5 end-game strategies to increase your win rate",
+    "message": null,
+    "group": null,
+    "timeLapse": "2weeks ago",
+    "sentImage": null,
+    "status": "read"
+  },
+  {
+    "image": "avatar-anna-kim.webp",
+    "name": "Anna Kim",
+    "action": "left the group",
+    "post": null,
+    "message": null,
+    "group": "Chess Club",
+    "timeLapse": "2weeks ago",
+    "sentImage": null,
+    "status": "read"
+  }
+]
